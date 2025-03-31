@@ -34,7 +34,7 @@ void unused_var() {
 
 void strcpy_overflow() {
     char dest[5];
-    strcpy(dest, "TooLongString"); // Buffer overflow
+    strcpy(dest, "TooLongStringDetected"); // Buffer overflow
 }
 
 int main() {
