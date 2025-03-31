@@ -3,7 +3,7 @@
 
 void main() {
   char str[10];
-  strcpy(str, "TooManyCharacterAdded");
+  strcpy(str, "TooManyCharacterAddedall");
   print(str);
 
 }
