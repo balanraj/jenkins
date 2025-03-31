@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+#include <time.h>
 #define MAX_SIZE 10
 
 void memory_leak() {
