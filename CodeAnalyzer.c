@@ -6,9 +6,5 @@ void main() {
   strcpy(str, "TooManyCharacterAddedall");
   print(str);
 
-                            strcpy(str, "LongstringAdded");
-
-
-
-  
+  strcpy(str, "LongstringAdded");
 }
