@@ -1,0 +1,3 @@
+[submodule "python-project"]
+	path = python-project
+	url = https://github.com/balanraj/Python-project.git
